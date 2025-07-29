@@ -1,42 +1,27 @@
-# comptia-cyber-study
-My Security+ and A+ study notes, OT security concepts, and command line practice
-# 📚 CompTIA + Cybersecurity Study Repo
+# 🛡️ CompTIA Cybersecurity Study Notes
 
-This repo tracks my journey through CompTIA A+, Security+, and OT cybersecurity topics. I'm building real understanding through labs, scripting, and daily notes.
+Hi, I'm currently studying CompTIA A+, Security+, and OT cybersecurity.  
+This repo documents my hands-on learning journey — command-line practice, core concepts, and real job-ready notes.
 
----
+## 🧠 What’s Inside
 
-## 🔒 Active Study Topics
+- **📁 notes/** – Concepts explained in my own words  
+   - Purdue Model  
+   - Network Segmentation  
+- **📁 commands/** – My Linux cheat sheet (in progress)
 
-- Security+ Domains (1–5)
-- Threats, Attacks, and Vulnerabilities
-- Risk Management + Frameworks (NIST-CSF, Purdue)
-- Linux command line & system hardening
-- Network architecture and segmentation
+## 🔍 Focus Areas
 
----
+- Network segmentation & architecture  
+- Threats, attacks & vulnerabilities  
+- OT & ICS frameworks (NIST, Purdue, IEC 62443)  
+- Hands-on Linux and system hardening
 
-## 📂 Repo Structure
+## 👩🏽‍💻 My Goal
 
-- `/notes/` — Study notes and summaries
-- `/commands/` — CLI cheat sheets
-- `/frameworks/` — OT security and compliance frameworks
-- `/labs/` — Lab writeups and screenshots
-
----
-
-## ✍️ Learning Tools
-
-- CUNY CompTIA Program
-- YouTube, Professor Messer, TryHackMe
-- ChatGPT for AI-assisted study
-- Home server for hands-on practice (Ubuntu, terminal, segmentation)
+To build real-world knowledge for a cybersecurity or tech support role while I study full-time.  
+No fluff, just real learning — with GitHub as my proof.
 
 ---
 
-## ✅ Next Steps
-
-- Upload weekly summaries by domain (Security+)
-- Write mock report using NIST 800-82 format
-- Add screenshots from command line exercises
-- Build a simple bash script to scan open ports
+_Repo updated regularly. Feel free to follow or fork._
