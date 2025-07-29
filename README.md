@@ -9,6 +9,7 @@ This repo documents my hands-on learning journey — command-line practice, core
    - Purdue Model  
    - Network Segmentation  
 - **📁 commands/** – My Linux cheat sheet (in progress)
+- 🗓️ [Study Log](./STUDY_LOG.md) — Daily progress & reflections
 
 ## 🔍 Focus Areas
 
